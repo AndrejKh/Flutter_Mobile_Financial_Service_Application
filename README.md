@@ -1,20 +1,19 @@
 # Flutter Mobile Financial Service Application
 A Cross Platform Mobile Financial Service (MFS) Application. This is a Mobile Financial Mobile Application based on P2P Banking Concept for Android and iOS Platform Developed By Flutter and Django REST Backend
 
-## 🔥Project environment
+## Project environment
 
     1. Flutter version 3.3.7
 
     2. Dart version 2.18.4
 
 
-## ✨ Requirements
+## Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
-* A brain to think 🤓🤓
 
-## 🔥Usage
+## Usage
 
 Make sure you have Flutter installed on your local machine. For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
 ```
@@ -24,7 +23,7 @@ flutter pub get
 flutter run
 ```
 
-## 📸 ScreenShots
+## ScreenShots
 
 <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/1.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/2.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/3.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/4.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/5.png" alt="drawing" style="width:250px;"/> <img src="https://github.com/ssoad/etaka/raw/master/docs/imgs/6.png" alt="drawing" style="width:250px;"/>
 
