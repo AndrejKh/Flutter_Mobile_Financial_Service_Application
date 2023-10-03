@@ -1,9 +1,7 @@
-# etaka
-A Cross Platform Mobile Financial Service (MFS) Application. eTaka is a Mobile Financial Mobile Application based on P2P Banking Concept for Android and iOS Platform Developed By Flutter and Django REST Backend
+# Flutter Mobile Financial Service Application
+A Cross Platform Mobile Financial Service (MFS) Application. This is a Mobile Financial Mobile Application based on P2P Banking Concept for Android and iOS Platform Developed By Flutter and Django REST Backend
 
 ## 🔥Project environment
-
-[![eTaka Workflow](https://github.com/ssoad/etaka/actions/workflows/dart.yml/badge.svg)](https://github.com/ssoad/etaka/actions/workflows/dart.yml)
 
     1. Flutter version 3.3.7
 
@@ -20,8 +18,8 @@ A Cross Platform Mobile Financial Service (MFS) Application. eTaka is a Mobile F
 
 Make sure you have Flutter installed on your local machine. For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
 ```
-git clone https://github.com/ssoad/etaka.git
-cd etaka
+git clone https://github.com/AndrejKh/Flutter_Mobile_Financial_Service_Application.git
+cd Flutter_Mobile_Financial_Service_Application
 flutter pub get
 flutter run
 ```
